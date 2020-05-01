@@ -1,0 +1,8 @@
+//TOPIC:  DATA TYPES
+let yourAge = 18; //number dataType
+let yourName='bob';// string
+let game = {first: 'ball', last: 'tenis'};//object
+let truth= false;// booleam
+let groceries = ['apple', 'banana', 'oranges'];//arrey
+let random;// undefined
+let nothinhg= null;// value null
